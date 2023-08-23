@@ -17,4 +17,4 @@ const result = await inference.imageToText({
     model,
 });
 
-console.log('result', result);
+console.log('result', result); // { generated_text: 'a zebra standing in a field of tall grass ' }
