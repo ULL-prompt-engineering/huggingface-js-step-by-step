@@ -39,3 +39,7 @@ const result = await inference.imageToText({
 
 console.log('result', result); // { generated_text: 'a zebra standing in a field of tall grass ' }
 ```
+
+## Summarization
+
+[acebook/bart-large-cnn](https://huggingface.co/facebook/bart-large-cnn)
