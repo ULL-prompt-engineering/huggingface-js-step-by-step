@@ -22,6 +22,8 @@ v20.5.0
 9.8.0
 ```
 
+See [package.json](/package.json) for the versions of the dependencies.
+
 ## Choose a model and make it work
 
 Go to https://huggingface.co/ then choose  [models](https://huggingface.co/models), choose the task you want to do, for intance [image-to-text](https://huggingface.co/models?pipeline_tag=image-to-text) then sort by likes and choose the model you want to use.
