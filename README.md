@@ -7,8 +7,7 @@ To understand the contents of this repo, watch and follow the steps in the video
 
 Here is the documentation of the libraries used in the video:
 
-[Hugging Face JS libraries](https://huggingface.co/docs/huggingface.js/index): https://huggingface.co/docs/huggingface.js/index
-
+* [Hugging Face JS libraries](https://huggingface.co/docs/huggingface.js/index): https://huggingface.co/docs/huggingface.js/index
 * [@huggingface/inference](https://huggingface.co/docs/huggingface.js/inference/modules) reference API
   * [repo huggingface/huggingface.js](https://github.com/huggingface/huggingface.js/tree/main)
   * [packages](https://github.com/huggingface/huggingface.js/tree/main/packages)
