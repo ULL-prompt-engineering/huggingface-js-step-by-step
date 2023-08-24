@@ -33,4 +33,6 @@ let result = await hf.summarization({
     }
   })
 
-console.log('result', result); // { generated_text: 'a zebra standing in a field of tall grass ' }
+console.log('result', result); /* {
+    summary_text: 'Liana Barrientos has been married 10 times, sometimes within two weeks of each other. Prosecutors say the marriages were part of an immigration scam. She is believed to still be married to four men, and at one time, she was married to eight men at once.'
+  } */
