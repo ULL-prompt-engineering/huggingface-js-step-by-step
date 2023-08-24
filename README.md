@@ -22,7 +22,7 @@ v20.5.0
 9.8.0
 ```
 
-See [package.json](/package.json) for the versions of the dependencies.
+See [package.json](/package.json#L13-L17) for the versions of the dependencies.
 
 ## Choose a model and make it work
 
