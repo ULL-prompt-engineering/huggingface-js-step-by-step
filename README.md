@@ -1,8 +1,17 @@
 ## References 
 
-* [Huggingface.js: Step-by-Step Guide to Getting Started](https://youtu.be/z41vJlPMqnE) by Developer Digest
-* [Hugging Face JS libraries](https://huggingface.co/docs/huggingface.js/index)
-* [ULL-prompt-engineering/prompt-engineering-101](https://github.com/ULL-prompt-engineering/prompt-engineering-101)
+Watch and follow the steps in the video [Huggingface.js: Step-by-Step Guide to Getting Started](https://youtu.be/z41vJlPMqnE) by Developer Digest:
+
+[![Huggingface.js: Step-by-Step Guide to Getting Started](https://img.youtube.com/vi/z41vJlPMqnE/maxresdefault.jpg)](https://youtu.be/z41vJlPMqnE)
+
+
+Here is the documentation of the libraries used in the video:
+
+[Hugging Face JS libraries](https://huggingface.co/docs/huggingface.js/index)
+
+And this reference takes you to the Prompt Engineering 101 course:
+
+[ULL-prompt-engineering/prompt-engineering-101](https://github.com/ULL-prompt-engineering/prompt-engineering-101)
   
 ## Versions
 
