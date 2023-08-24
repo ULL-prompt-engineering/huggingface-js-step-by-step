@@ -1,6 +1,6 @@
 ## References 
 
-Watch and follow the steps in the video [Huggingface.js: Step-by-Step Guide to Getting Started](https://youtu.be/z41vJlPMqnE) by Developer Digest:
+To understand the contents of this repo, watch and follow the steps in the video [Huggingface.js: Step-by-Step Guide to Getting Started](https://youtu.be/z41vJlPMqnE) by Developer Digest:
 
 [![Huggingface.js: Step-by-Step Guide to Getting Started](https://img.youtube.com/vi/z41vJlPMqnE/maxresdefault.jpg)](https://youtu.be/z41vJlPMqnE)
 
