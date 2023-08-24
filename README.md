@@ -9,6 +9,8 @@ Here is the documentation of the libraries used in the video:
 
 [Hugging Face JS libraries](https://huggingface.co/docs/huggingface.js/index): https://huggingface.co/docs/huggingface.js/index
 
+* [@huggingface/inference](https://huggingface.co/docs/huggingface.js/inference/modules) reference API
+
 And this reference takes you to the Prompt Engineering 101 course:
 
 [ULL-prompt-engineering/prompt-engineering-101](https://github.com/ULL-prompt-engineering/prompt-engineering-101): https://github.com/ULL-prompt-engineering/prompt-engineering-101
