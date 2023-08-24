@@ -24,6 +24,15 @@ v20.5.0
 
 See [package.json](/package.json#L13-L17) for the versions of the dependencies.
 
+## Make an account in Huggingface
+
+It does not ask you for a credit card. Once you have created go to your account, then settings and create a new **READ** access token. Copy the token and save it in a file called `.env` in the root of this repo.
+    
+```
+HF_ACCESS_TOKEN=your-api-key
+```
+
+
 ## Choose a model and make it work
 
 Go to https://huggingface.co/ then choose  [models](https://huggingface.co/models), choose the task you want to do, for intance [image-to-text](https://huggingface.co/models?pipeline_tag=image-to-text) then sort by likes and choose the model you want to use.
