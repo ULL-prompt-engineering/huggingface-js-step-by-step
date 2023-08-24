@@ -13,7 +13,7 @@ Here is the documentation of the libraries used in the video:
   * [repo huggingface/huggingface.js](https://github.com/huggingface/huggingface.js/tree/main)
   * [packages](https://github.com/huggingface/huggingface.js/tree/main/packages)
   * [tests](https://github.com/huggingface/huggingface.js/tree/main/packages/inference/test)
-  
+* [Inference Endpoints](https://huggingface.co/docs/inference-endpoints/index) 
 And this reference takes you to the Prompt Engineering 101 course:
 
 [ULL-prompt-engineering/prompt-engineering-101](https://github.com/ULL-prompt-engineering/prompt-engineering-101): https://github.com/ULL-prompt-engineering/prompt-engineering-101
